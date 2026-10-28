@@ -10,6 +10,12 @@ Any help improving the sheet are welcome.
 
 # Version History
 
+## Version 0.8(2026-10-28)
+- Fix removed unnecessary dropdown options
+- Fix non-existent skills, replaced with missing skills in skills dropdown menu
+- Removed virtues
+- Added "N/A" to damage
+- Corrected some spelling errors 
 
 ## Version 0.7(2020-05-05)
 
